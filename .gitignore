@@ -1,0 +1,11 @@
+# 本地真题（勿提交）
+data/papers.js
+
+# 编辑器 / 系统
+.DS_Store
+Thumbs.db
+*.log
+
+# 临时补丁脚本
+_patch_*.py
+_split_i2.py
